@@ -10,7 +10,7 @@
                     <div class="card-header">Admin page</div>
 
                     <div class="card-body">
-                        Your application's dashboard.
+                        your are a not git pull testing working
                     </div>
                 </div>
             </div>
