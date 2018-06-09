@@ -4,16 +4,6 @@
     <div class="container">
         <div class="row">
             @include('admin.sidebar')
-
-            <div class="col-md-9">
-                <div class="card">
-                    <div class="card-header">Admin page</div>
-
-                    <div class="card-body">
-                        your are a not git pull testing working
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 @endsection
