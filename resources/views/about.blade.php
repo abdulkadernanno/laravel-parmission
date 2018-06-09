@@ -6,7 +6,7 @@
 <body>
      <div class="contanier">
      	<div class="row">
-     		<header>Laravel Parmission</header>
+     		<header>Laravel about contact change</header>
      	</div>
      </div>
 </body>
