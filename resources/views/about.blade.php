@@ -7,6 +7,7 @@
      <div class="contanier">
      	<div class="row">
      		<header>Laravel about contact change</header>
+     		<h5>{{ $test }}</h5>
      	</div>
      </div>
 </body>
