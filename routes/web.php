@@ -20,6 +20,11 @@ Route::get('/about', function () {
 	$test = 'about page test';
     return view('about',compact(test));
 });
+
+Route::get('/contact', function () {
+	$test = 'contact page test';
+    return view('contact',compact(test));
+});
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('
