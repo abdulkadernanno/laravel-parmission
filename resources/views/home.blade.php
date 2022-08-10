@@ -11,6 +11,9 @@
     				<div class="panel-body">
     					<div class="col-md-6"></div>
     				</div>
+					<div class="panel-footer">
+						<div class="col-md-6"></div>
+					</div>
     			</div>	
     		</div>
     	</div>
